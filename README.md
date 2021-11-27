@@ -50,6 +50,4 @@
 
 ## 시연 영상
 
-[![Video Label](https://img.youtube.com/vi/pSb2Eb8IJAc/0.jpg)](https://youtu.be/pSb2Eb8IJAc) 
-
-👆 서비스의 주요 기능 시연을 위 사진을 클릭하시면 확인하실 수 있습니다❗️ 
+[![Video Label](https://img.youtube.com/vi/pSb2Eb8IJAc/0.jpg)](https://youtu.be/pSb2Eb8IJAc)  
